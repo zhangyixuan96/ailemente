@@ -1,4 +1,4 @@
-console.log("git commit信息校验通过");
+console.log('git commit信息校验通过')
 // const msg = require("fs").readFileSync(".git/COMMIT_EDITMSG", "utf-8").trim();
 
 // const commitRE =
@@ -10,7 +10,7 @@ console.log("git commit信息校验通过");
 
 //     console.error(`git commit的信息格式不对, 需要使用 title(scope): desc的格式
 //       比如 fix: xxbug
-//       feat(test): add new 
+//       feat(test): add new
 //       具体校验逻辑看 scripts/verifyCommit.js
 //     `);
 //     process.exit(1);
