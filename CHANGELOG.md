@@ -1,0 +1,11 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.0.1 (2023-09-04)
+
+
+### Bug Fixes
+
+* **custom:** test ([8ca38d3](https://github.com/zhangyixuan96/ailemente/commit/8ca38d354d8af96e5dc607e9a3f921728ef77470))
+* **custom:** test2 ([cb5a303](https://github.com/zhangyixuan96/ailemente/commit/cb5a3037804996469df22bfee93da1135604483a))
