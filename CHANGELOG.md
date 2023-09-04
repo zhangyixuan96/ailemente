@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/zhangyixuan96/ailemente/compare/v0.0.3...v0.0.4) (2023-09-04)
+
+
+### ✨ Features | 新功能
+
+* **custom:** 输出日志 ([93de56f](https://github.com/zhangyixuan96/ailemente/commit/93de56f24a9f6c25be0046360930a7a6465f000b))
+
+
+### ⚡ Performance Improvements | 性能优化
+
+* **custom:** 配置 ([7ebf9b2](https://github.com/zhangyixuan96/ailemente/commit/7ebf9b26deb775977e346279302da2c95e582efd))
+
 ### [0.0.3](https://github.com/zhangyixuan96/ailemente/compare/v0.0.2...v0.0.3) (2023-09-04)
 
 
