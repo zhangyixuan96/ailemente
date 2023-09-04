@@ -3,6 +3,7 @@ module.exports = {
     browser: true,
     es2021: true,
     node: true,
+    es6: true,
   },
   extends: [
     "standard-with-typescript",
@@ -25,7 +26,7 @@ module.exports = {
     parser: "@typescript-eslint/parser", // 新增
     ecmaVersion: "latest",
     sourceType: "module",
-    project: ["tsconfig.json"], // 新增
+    project: ["tsconfig.json", "./commitlint.config.js"], // 新增
     extraFileExtensions: [".vue"],
   },
   plugins: ["vue"],

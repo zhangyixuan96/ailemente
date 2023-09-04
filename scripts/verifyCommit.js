@@ -1,4 +1,3 @@
-// console.log("git commit信息校验通过");
 import fs from "fs";
 const msg = fs.readFileSync(".git/COMMIT_EDITMSG", "utf-8").trim();
 const commitRE =

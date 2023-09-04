@@ -27,7 +27,8 @@
     "src/**/*.vue",
     ".eslintrc.cjs",
     "scripts/verifyCommit.js",
-    "vite.config.ts"
+    "vite.config.ts",
+    "commitlint.config.js" // 需要引入配置，否则报错
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
