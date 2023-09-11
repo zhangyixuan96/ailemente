@@ -6,3 +6,6 @@ declare module "*.vue" {
   const component: DefineComponent<{}, {}, any>;
   export default component;
 }
+// declare module "vite-plugin-eslint";
+// declare module "@vitejs/plugin-vue";
+// declare module "vite";
