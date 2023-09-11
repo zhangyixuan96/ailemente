@@ -10,6 +10,7 @@ export default defineConfig({
       include: ["src/**/*.ts", "src/**/*.vue", "src/*.ts", "src/*.vue"],
     }),
   ],
+  base: "./", // 将根路径换成相对路径
   resolve: {
     // 配置路径别名
     alias: {
