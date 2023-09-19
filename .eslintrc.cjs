@@ -30,5 +30,8 @@ module.exports = {
     extraFileExtensions: [".vue"],
   },
   plugins: ["vue"],
-  rules: { "@typescript-eslint/no-var-requires": 0 },
+  rules: {
+    "@typescript-eslint/no-var-requires": 0,
+    "vue/multi-word-component-names": "off",
+  },
 };
