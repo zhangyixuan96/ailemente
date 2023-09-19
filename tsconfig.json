@@ -18,7 +18,8 @@
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true
+    "noFallthroughCasesInSwitch": true,
+    "esModuleInterop": true
   },
   "include": [
     "src/**/*.ts",
@@ -28,7 +29,8 @@
     ".eslintrc.cjs",
     "scripts/verifyCommit.js",
     "vite.config.ts",
-    "commitlint.config.js" // 需要引入配置，否则报错
+    "commitlint.config.js", // 需要引入配置，否则报错
+    "jest.config.js" // 需要引入配置，否则报错
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
